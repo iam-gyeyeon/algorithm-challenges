@@ -1,4 +1,4 @@
-package algorithm.com.challenges.baekjoon.io;
+package algorithm.com.challenges.baekjoon._01_io;
 
 public class No10171 {
     /**
